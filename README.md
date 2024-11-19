@@ -68,4 +68,4 @@ Este projeto simula o funcionamento de um posto de gasolina, com operações com
 Para clonar este projeto, utilize o seguinte link:
 
 ```bash
-git clone https://github.com/HiagoSalvador/posto-de-gasolina-JS.git
+git clone https://github.com/HiagoSalvador/hotel-JS.git
